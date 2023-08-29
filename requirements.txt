@@ -1,0 +1,5 @@
+pandas
+ydata_profiling
+great_expectations
+psycopg2
+python-dotenv
